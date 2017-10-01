@@ -1,0 +1,6 @@
+{
+    "prod": {
+        "s3_bucket": "lmbda-flask-hello-world",
+        "app_function": "botman.app"
+    }
+}
